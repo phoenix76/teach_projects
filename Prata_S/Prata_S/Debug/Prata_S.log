@@ -1,0 +1,13 @@
+﻿Сборка начата 22.02.2016 1:35:54.
+     1>Проект "C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Prata_S\Prata_S\Prata_S.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Mvs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt swap.cpp
+         swap.cpp
+       Link:
+         D:\Mvs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Prata_S\Debug\Prata_S.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Prata_S\Debug\Prata_S.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Prata_S\Debug\Prata_S.lib" /MACHINE:X86 Debug\swap.obj
+         Prata_S.vcxproj -> C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Prata_S\Debug\Prata_S.exe
+     1>Сборка проекта "C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\Prata_S\Prata_S\Prata_S.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.57

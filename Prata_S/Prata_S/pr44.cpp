@@ -1,0 +1,16 @@
+#include <iostream>
+#include <string>
+
+int main()
+{
+	std::string firstName, lastName, resultStr;
+
+	std::cout << "Enter your first name: ";		std::getline(std::cin, firstName);
+	std::cout << "Enter your last name: ";		std::getline(std::cin, lastName);
+	resultStr = lastName;
+	resultStr = resultStr + ", " + firstName;
+	std::cout << "Here's the information in a single string: " << resultStr << std::endl;
+
+	system("pause");
+	return 0; 
+}
