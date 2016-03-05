@@ -9,7 +9,5 @@
 using namespace std;
 
 void main(){
-	std::cout << "Hello" << endl;
-	//____________________________
 	_getch();
 }
