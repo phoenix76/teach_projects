@@ -1,0 +1,10 @@
+﻿Сборка начата 06.03.2016 2:54:20.
+     1>Проект "D:\Git\teach_projects\sfml_lessons\sfml_lessons\sfml_lessons.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         D:\Mvs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Git\teach_projects\sfml_lessons\Debug\sfml_lessons.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Git\teach_projects\SFML-2.3.2\lib" "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-network-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Git\teach_projects\sfml_lessons\Debug\sfml_lessons.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Git\teach_projects\sfml_lessons\Debug\sfml_lessons.lib" /MACHINE:X86 Debug\main.obj
+         sfml_lessons.vcxproj -> D:\Git\teach_projects\sfml_lessons\Debug\sfml_lessons.exe
+     1>Сборка проекта "D:\Git\teach_projects\sfml_lessons\sfml_lessons\sfml_lessons.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.64
