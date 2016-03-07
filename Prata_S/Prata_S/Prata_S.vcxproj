@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="swap.cpp" />
+    <ClCompile Include="filefunc.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{D15D132B-570F-4E88-9A6D-C3E3D61FDE2B}</ProjectGuid>
