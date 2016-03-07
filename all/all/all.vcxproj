@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="git test.cpp" />
+    <ClCompile Include="airportrefs.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{8D8FA8CB-A330-473E-AEE6-03E65E1B8306}</ProjectGuid>

@@ -1,18 +1,9 @@
-﻿Сборка начата 05.03.2016 1:21:09.
-     1>Проект "C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\all\all\all.vcxproj" в узле 2 (целевые объекты Build).
-     1>ClCompile:
-         D:\Mvs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt charstr.cpp
-         charstr.cpp
-     1>c:\users\dmitry\documents\visual studio 2013\projects\all\all\charstr.cpp(34): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-     1>c:\users\dmitry\documents\visual studio 2013\projects\all\all\charstr.cpp(35): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-     1>c:\users\dmitry\documents\visual studio 2013\projects\all\all\charstr.cpp(36): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-     1>c:\users\dmitry\documents\visual studio 2013\projects\all\all\charstr.cpp(48): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
-     1>c:\users\dmitry\documents\visual studio 2013\projects\all\all\charstr.cpp(49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
-       Link:
-         D:\Mvs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\all\Debug\all.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\all\Debug\all.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\all\Debug\all.lib" /MACHINE:X86 Debug\charstr.obj
-         all.vcxproj -> C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\all\Debug\all.exe
-     1>Сборка проекта "C:\Users\Dmitry\Documents\Visual Studio 2013\Projects\all\all\all.vcxproj" завершена (целевые объекты Build).
+﻿Сборка начата 08.03.2016 2:44:56.
+     1>Проект "D:\Git\teach_projects\all\all\all.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         all.vcxproj -> D:\Git\teach_projects\all\Debug\all.exe
+     1>Сборка проекта "D:\Git\teach_projects\all\all\all.vcxproj" завершена (целевые объекты Build).
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:01.67
+Затраченное время: 00:00:00.04
