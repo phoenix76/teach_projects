@@ -10,9 +10,6 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="leftover.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{D15D132B-570F-4E88-9A6D-C3E3D61FDE2B}</ProjectGuid>
     <RootNamespace>Prata_S</RootNamespace>
