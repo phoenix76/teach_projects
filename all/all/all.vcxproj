@@ -11,10 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="mains.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="singl.h" />
+    <ClCompile Include="f1.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{8D8FA8CB-A330-473E-AEE6-03E65E1B8306}</ProjectGuid>
