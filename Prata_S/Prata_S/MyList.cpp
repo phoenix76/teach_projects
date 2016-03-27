@@ -1,7 +1,7 @@
 #include "MyList.h"
 #include <iostream>
 
-void CMyList::Push(Item *p)
+void CMyList::operator+(Item *p)
 {
 	if(top < 9)
 	{
@@ -11,7 +11,7 @@ void CMyList::Push(Item *p)
 	else
 		std::cout << "List is full.\n";
 }
-void CMyList::Pop()
+void CMyList::operator-()
 {
 	if(top != 0)
 	{

@@ -7,8 +7,8 @@ class CMyList
 {
 public:
 	CMyList() { top = 0; }
-	void Push(Item*);
-	void Pop();
+	void operator+ (Item*);
+	void operator- ();
 	Item *GetItem(unsigned short);
 	bool IsEmpty() const;
 	bool IsFull() const;
